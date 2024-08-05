@@ -17,7 +17,7 @@ Je suis principalement spécialisé dans le développement front-end, j'ai l'hab
 🧠 Je me forme à Three.Js ainsi qu'à Flutter
 
 ## 🛠 Compétences
-HTML5, CSS3, JavaScript | React.Js | Vue.Js, Nuxt.Js | Tailwind CSS ...
+HTML5, CSS3, JavaScript | React.Js, Next.Js | Vue.Js, Nuxt.Js | Tailwind CSS ...
 
 ## 🔗 Me retrouver
 [![portfolio](https://img.shields.io/badge/mon_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pr0ph.com/)
