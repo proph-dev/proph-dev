@@ -1,10 +1,10 @@
 
 # Bienvenue sur mon GitHub 👋
 
-Développeur web front-end freelance et étudiant chez OpenClassrooms.
+Développeur web Full Stack orienté front-end.
 ## 🚀 En savoir plus
 Je m'appelle Théo, développeur web depuis 2019.
-Je suis principalement spécialisé dans le développement front-end, j'ai l'habitude d'utiliser React.Js ainsi que Vue.Js.
+Je suis principalement spécialisé dans le développement front-end, j'ai l'habitude d'utiliser React.Js ainsi que Angular.
 ## En apprendre plus sur moi
 👩‍💻 J'ai commencé avec le développement Java en 2016
 
@@ -17,7 +17,7 @@ Je suis principalement spécialisé dans le développement front-end, j'ai l'hab
 🧠 Je me forme à Three.Js ainsi qu'à Flutter
 
 ## 🛠 Compétences
-HTML5, CSS3, JavaScript | React.Js, Next.Js | Vue.Js, Nuxt.Js | Tailwind CSS ...
+HTML5, CSS3, JavaScript, TypeScript | React.Js, Next.Js | Angular | Vue.Js, Nuxt.Js | Tailwind CSS, SaSS ...
 
 ## 🔗 Me retrouver
 [![portfolio](https://img.shields.io/badge/mon_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pr0ph.com/)
